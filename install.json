@@ -1,7 +1,7 @@
 {
 	"resources": {
 		"body": {
-			"type": "text/javascript",
+			"type": "script",
 			"src": "./gauges.js"
 		}
 	},
