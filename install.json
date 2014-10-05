@@ -1,0 +1,22 @@
+{
+	"resources": {
+		"body": {
+			"type": "text/javascript",
+			"src": "./gauges.js"
+		}
+	},
+	"options": {
+		"properties": {
+			"id": {
+				"title": "Website ID",
+				"description": "Your website tracking id (found in your Gaug.es settings).",
+				"type": "string"
+			},
+			"asynchronous": {
+				"title": "Asynchronous",
+				"description": "Enables asynchronous tracking.",
+				"type": "boolean"
+			}
+		}
+	}
+}
