@@ -4,6 +4,10 @@
 			{
 				"type": "script",
 				"src": "./gauges.js"
+			},
+			{
+				"type": "script",
+				"contents": "Gauges.init(INSTALL_OPTIONS)"
 			}
 		]
 	},
