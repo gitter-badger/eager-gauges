@@ -1,4 +1,4 @@
-window.Gauges = {
+window.EagerGauges = {
   init: function(options) {
 	var _gauges = _gauges || [];
 	(function() {
