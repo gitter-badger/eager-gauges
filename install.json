@@ -7,7 +7,7 @@
 			},
 			{
 				"type": "script",
-				"contents": "Gauges.init(INSTALL_OPTIONS)"
+				"contents": "EagerGauges.init(INSTALL_OPTIONS)"
 			}
 		]
 	},
