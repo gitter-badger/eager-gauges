@@ -1,10 +1,7 @@
-window.EagerGauges = {
+window.Gauges = {
   init: function(options) {
   	
-  	// debug
-  	console.log(options);
-  	
-	var _gauges = _gauges || [];
+  	var _gauges = _gauges || [];
 	(function() {
 		var gauges   = document.createElement('script');
 		gauges.type  = 'text/javascript';
