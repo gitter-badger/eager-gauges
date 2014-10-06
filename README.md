@@ -1,4 +1,5 @@
 # Gaug.es for Eager
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nblackburn/eager-gauges?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Add [Gaug.es](http://gaug.es) analytics with Eager.
 
