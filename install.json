@@ -1,9 +1,11 @@
 {
 	"resources": {
-		"body": {
-			"type": "script",
-			"src": "./gauges.js"
-		}
+		"body": [
+			{
+				"type": "script",
+				"src": "./gauges.js"
+			}
+		]
 	},
 	"options": {
 		"properties": {
